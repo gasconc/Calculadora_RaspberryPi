@@ -1,0 +1,2 @@
+# Calculadora_RaspberryPi
+CHALLENGE : Utilizando la herramienta Python IDLE , desarrolle un código capaz de pedir por consola al usuario:  Primer número entero  Operador ( Suma, Resta,Multiplicación o División)  Segundo número entero Los datos ingresados deben ser almacenados en las variables correspondientes y se debe imprimir por pantalla el resultado de operación solicitada en base binaria, luego haga una pausa de 3 segundos para volver a solicitar una nueva operación al usuario.
